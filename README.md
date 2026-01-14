@@ -11,22 +11,23 @@ It is designed using the **Page Object Model (POM)** architecture to keep test l
 - Page Object Model (POM)
 
 ## Project Structure
+```text
 DarazAutomationPOM/
 │
 ├── drivers/
-│ └── chromedriver-win64/
-│ └── chromedriver.exe
+│   └── chromedriver-win64/
+│       └── chromedriver.exe
 │
 ├── pages/
-│ ├── home_page.py
-│ ├── search_results_page.py
-│ └── product_page.py
+│   ├── home_page.py
+│   ├── search_results_page.py
+│   └── product_page.py
 │
 ├── tests/
-│ └── test_daraz.py
+│   └── test_daraz.py
 │
 ├── utils/
-│ └── driver_setup.py
+│   └── driver_setup.py
 │
 └── README.md
 
