@@ -30,6 +30,7 @@ DarazAutomationPOM/
 │   └── driver_setup.py
 │
 └── README.md
+```
 
 ## Implemented Features
 - Project setup with Selenium and ChromeDriver
